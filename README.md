@@ -5,7 +5,6 @@ This repository is a walk-through for running LAMP on Xilinx® Alveo™ U280 FPG
 
 # Folder Structure
     .
-    ├── data                # Sample data for training and quantization
     ├── models              # Pre-trained models, weight values for custom kernel
     ├── scripts             # Scripts for generating the compiled model for DPU and evalution
     ├── src
